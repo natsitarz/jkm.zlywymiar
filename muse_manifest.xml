@@ -1,0 +1,60 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jkm.zlywymiar.github.io" resolutions="1x" timestamp="1613248574723">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-wzorcowa.css" crc="166229242" ref="index:jkm--graj:jkm--soundtrack"/>
+    <file name="index.css" crc="90513789" ref="index"/>
+    <file name="jkm--graj.css" crc="415420668" ref="jkm--graj"/>
+    <file name="jkm--soundtrack.css" crc="4039706125" ref="jkm--soundtrack"/>
+  </folder>
+  <folder name="fonts">
+    <file name="blenderpro-book.woff" crc="3910407847"/>
+    <file name="blenderpro-book.eot" crc="3773239337"/>
+    <file name="anyconv.com__blenderpro-book.svg" crc="4024814277"/>
+    <file name="blenderpro-bold.woff" crc="335477184"/>
+    <file name="blenderpro-bold.eot" crc="3939201362"/>
+    <file name="anyconv.com__blenderpro-bold.svg" crc="4241566660"/>
+  </folder>
+  <folder name="assets">
+    <file name="strona2.mp4" crc="6606130" seo="true" mt="1613248475000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jkm--graj:jkm--soundtrack"/>
+    <file name="museutils.js" crc="3939489907" ref="index:jkm--graj:jkm--soundtrack"/>
+    <file name="whatinput.js" crc="86476730" ref="index:jkm--graj:jkm--soundtrack"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:jkm--graj:jkm--soundtrack"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:jkm--graj:jkm--soundtrack"/>
+    <file name="require.js" crc="4177726516" ref="index:jkm--graj:jkm--soundtrack"/>
+    <file name="webpro.js" crc="3856315280" ref="jkm--graj"/>
+    <file name="form_check.php" crc="4108222811" ref="jkm--graj"/>
+    <file name="form_throttle.php" crc="503802655" ref="jkm--graj"/>
+    <file name="form_process.php" crc="260214869" ref="jkm--graj"/>
+    <file name="form-u450.php" crc="519044619" ref="jkm--graj"/>
+  </folder>
+  <folder name="images">
+    <file name="000.png" crc="4291216971" seo="true" ref="index:jkm--graj:jkm--soundtrack">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jkm--graj" alt=""/>
+      <caption webpage="jkm--soundtrack" alt=""/>
+    </file>
+    <file name="000-u177.png" crc="4012115449" ref="index"/>
+    <file name="tile000.png" crc="4175386284" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tile0002.png" crc="79182031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tile0003.png" crc="3808620414" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dialog_example.png" crc="102436891" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tile0004.png" crc="3925101221" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="000-u365.png" crc="109141182" ref="jkm--graj"/>
+  </folder>
+  <file name="index.html" crc="4096269835" seo="true" mt="1613248536714" redirect="true"/>
+  <file name="jkm--graj.html" crc="4091487296" seo="true" mt="1613248536727" redirect="true"/>
+  <file name="jkm--soundtrack.html" crc="3821316505" seo="true" mt="1613248536712" redirect="true"/>
+</manifest>
