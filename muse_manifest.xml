@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jkm.zlywymiar.github.io" resolutions="1x" timestamp="1613248574723">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jkm.zlywymiar.github.io" resolutions="1x" timestamp="1613249433385">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-wzorcowa.css" crc="166229242" ref="index:jkm--graj:jkm--soundtrack"/>
     <file name="index.css" crc="90513789" ref="index"/>
-    <file name="jkm--graj.css" crc="415420668" ref="jkm--graj"/>
+    <file name="jkm--graj.css" crc="3903155787" ref="jkm--graj"/>
     <file name="jkm--soundtrack.css" crc="4039706125" ref="jkm--soundtrack"/>
   </folder>
   <folder name="fonts">
@@ -13,6 +13,9 @@
     <file name="blenderpro-bold.woff" crc="335477184"/>
     <file name="blenderpro-bold.eot" crc="3939201362"/>
     <file name="anyconv.com__blenderpro-bold.svg" crc="4241566660"/>
+    <file name="blenderpro-thin.woff" crc="345163510"/>
+    <file name="blenderpro-thin.eot" crc="3979570903"/>
+    <file name="anyconv1.com__blenderpro-thinitalic.svg" crc="3850229940"/>
   </folder>
   <folder name="assets">
     <file name="strona2.mp4" crc="6606130" seo="true" mt="1613248475000"/>
@@ -24,11 +27,6 @@
     <file name="museconfig.js" crc="3936894949" ref="index:jkm--graj:jkm--soundtrack"/>
     <file name="jquery.watch.js" crc="522499760" ref="index:jkm--graj:jkm--soundtrack"/>
     <file name="require.js" crc="4177726516" ref="index:jkm--graj:jkm--soundtrack"/>
-    <file name="webpro.js" crc="3856315280" ref="jkm--graj"/>
-    <file name="form_check.php" crc="4108222811" ref="jkm--graj"/>
-    <file name="form_throttle.php" crc="503802655" ref="jkm--graj"/>
-    <file name="form_process.php" crc="260214869" ref="jkm--graj"/>
-    <file name="form-u450.php" crc="519044619" ref="jkm--graj"/>
   </folder>
   <folder name="images">
     <file name="000.png" crc="4291216971" seo="true" ref="index:jkm--graj:jkm--soundtrack">
@@ -54,7 +52,7 @@
     </file>
     <file name="000-u365.png" crc="109141182" ref="jkm--graj"/>
   </folder>
-  <file name="index.html" crc="4096269835" seo="true" mt="1613248536714" redirect="true"/>
-  <file name="jkm--graj.html" crc="4091487296" seo="true" mt="1613248536727" redirect="true"/>
-  <file name="jkm--soundtrack.html" crc="3821316505" seo="true" mt="1613248536712" redirect="true"/>
+  <file name="index.html" crc="10274356" seo="true" mt="1613249405713" redirect="true"/>
+  <file name="jkm--graj.html" crc="232014874" seo="true" mt="1613249413517" redirect="true"/>
+  <file name="jkm--soundtrack.html" crc="17548833" seo="true" mt="1613249423831" redirect="true"/>
 </manifest>
